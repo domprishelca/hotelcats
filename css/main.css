@@ -1,0 +1,86 @@
+
+.logo{
+  margin-top: 12px;
+  margin-bottom: 12px;
+}
+.menu{
+
+}
+
+li a{
+  color: #1A212F;
+}
+li{
+  list-style-type: none;
+  margin-right:30px;
+  font-family: 'Lato', sans-serif;
+  font-size: 12px;
+  font-weight: bold;
+  paddng: 0px;
+}
+ul{
+  margin-bottom: 0px;
+  padding: 0px;
+}
+.cat_firstscreen{
+  width:100%;
+  position: relative;
+
+}
+
+.firstscreen{
+  padding: 0px 0px;
+  width: 100%;
+}
+
+.city{
+  position: absolute;
+  top: 225px;
+	left: 270px;
+	width: 100%;
+}
+.kitty{
+  position: absolute;
+  top: 225px;
+  left: 270px;
+  width: 100%;
+  font-size: 75px;
+  font-weight: bold;
+}
+.host{
+  position: absolute;
+  top: 330px;
+  left: 270px;
+  width: 100%;
+}
+.booking {
+  font-size: 16px;
+  font-weight: bold;
+  position: absolute;
+  top: 380px;
+  left: 270px;
+  color: #1A212F;
+  background-color: white;
+  border-radius: 20px;
+  padding-left: 20px;
+
+
+}
+.booking:hover {
+    color: orange;
+    text-decoration: none;
+}
+.booking img{
+
+  width: 20%;
+  margin: 3px 3px 3px 15px;
+}
+
+
+
+
+
+.navblock{
+  align-self: center;
+  padding: 0px 0px;
+}
